@@ -3,4 +3,4 @@
 > [!IMPORTANT]
 > Building castles in the sky!
 
-![image](image/angrywolf.gif)
+![image](/image/angrywolf.gif)
